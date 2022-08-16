@@ -1,6 +1,0 @@
-C:\Users\petit\Desktop\repos\FriendOrganiser\FriendOrganiser.Model\bin\Debug\FriendOrganiser.Model.dll
-C:\Users\petit\Desktop\repos\FriendOrganiser\FriendOrganiser.Model\bin\Debug\FriendOrganiser.Model.pdb
-C:\Users\petit\Desktop\repos\FriendOrganiser\FriendOrganiser.Model\obj\Debug\FriendOrganiser.Model.csproj.AssemblyReference.cache
-C:\Users\petit\Desktop\repos\FriendOrganiser\FriendOrganiser.Model\obj\Debug\FriendOrganiser.Model.csproj.CoreCompileInputs.cache
-C:\Users\petit\Desktop\repos\FriendOrganiser\FriendOrganiser.Model\obj\Debug\FriendOrganiser.Model.dll
-C:\Users\petit\Desktop\repos\FriendOrganiser\FriendOrganiser.Model\obj\Debug\FriendOrganiser.Model.pdb

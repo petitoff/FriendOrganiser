@@ -10,8 +10,6 @@ namespace FriendOrganiser.UI.ViewModel
         private IFriendDataService _friendDataService;
         private Friend _selectedFriend;
 
-        public event PropertyChangedEventHandler PropertyChanged;
-
         public MainViewModel(IFriendDataService friendDataService)
         {
             Friends = new ObservableCollection<Friend>();

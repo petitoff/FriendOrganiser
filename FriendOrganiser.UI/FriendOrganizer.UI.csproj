@@ -126,13 +126,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FriendOrganiser.DataAccess\FriendOrganiser.DataAccess.csproj">
+    <ProjectReference Include="..\FriendOrganiser.DataAccess\FriendOrganizer.DataAccess.csproj">
       <Project>{5fc06c72-3ac5-4bd3-b2b5-fc76c27909a8}</Project>
-      <Name>FriendOrganiser.DataAccess</Name>
+      <Name>FriendOrganizer.DataAccess</Name>
     </ProjectReference>
-    <ProjectReference Include="..\FriendOrganiser.Model\FriendOrganiser.Model.csproj">
+    <ProjectReference Include="..\FriendOrganiser.Model\FriendOrganizer.Model.csproj">
       <Project>{fa4c5cf6-89c4-4e0e-8f87-9e1944213fa9}</Project>
-      <Name>FriendOrganiser.Model</Name>
+      <Name>FriendOrganizer.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />
